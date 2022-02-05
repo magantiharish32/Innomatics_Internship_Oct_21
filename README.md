@@ -1,4 +1,4 @@
-# Innomatics_Internship_Oct_21
+# Internship_Oct_21
 
 Plant Disease Recognition Mobile Application Development using Deep Learning
  
